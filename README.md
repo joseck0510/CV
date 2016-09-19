@@ -6,7 +6,8 @@ I am a shiny new developer and love to be continually learning.  I have built a 
 
 #### Software Development Skills/Projects
 
-      [MAKERS PROJECTS IN HERE]
+    s
+
 
 #### Results Oriented and Able to Work Under Pressure
 
@@ -58,8 +59,8 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 
 #### Your University / College (start_date to end_date)
 
-- 1995 - 1996 - Law LLDip LPC - College of Law(Chester)
-- 1991 - 1994 - Law LLB(Hons)2ii - Queen Mary College(University of London)
+- 1995-1996 | Law LLDip LPC | College of Law(Chester)
+- 1991-1994 | Law LLB(Hons)2(ii) | Queen Mary College (University of London)
 
 #### Interests
 - Gym
