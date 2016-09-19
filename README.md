@@ -2,11 +2,12 @@
 
 I'm a results orientated, learning junkie. I have built a career over the last 15 years as a project manager, helping companies grow by building effective teams. Most recently I have completed a nose-bleed inducing full stack software development course at Makers Academy. I'm looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment.
 
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## Skills
 
 #### Software Development Skills/Projects
+
+      [MAKERS PROJECTS IN HERE]
 
 #### Results Oriented and Able to Work Under Pressure
 
@@ -39,10 +40,16 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 - Worked with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human rights (Jamaica) review
 
 
-
-
-
 ## Education
+
+- 2016  - Makers Academy - Full Stack Software Engineering bootcamp
+
+- 2012 - PRINCE2 Practitioner Certification
+
+- 1995 - 1996 - Law LLDip LPC - College of Law(Chester)
+
+- 1991 - 1994 - Law LLB(Hons) - Queen Mary College(University of London)
+
 
 #### Makers Academy (start_date to end_date)
 
