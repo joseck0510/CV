@@ -6,6 +6,8 @@ I'm a results orientated, learning junkie. I have built a career over the last 1
 
 ## Skills
 
+#### Software Development Skills/Projects
+
 #### Results Oriented and Able to Work Under Pressure
 
 I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional resources to achieve common business goals on time and on budget and ensuring constant communication with senior managers and board representatives in blue chip multinational client companies.
@@ -26,11 +28,17 @@ I have worked as as a project manager for the last 15 years, helping to deliver 
 
 Able to work well with diverse groups of people.
 
-I have worked in international multi-disciplinary teams for the last 20 years within the project management, finance and software development areas.  During this time I have also helpe dto build highly effective project teams.
+I have worked in international multi-disciplinary teams for the last 20 years within the project management, finance and software development areas.  During this time I have also helped to build highly effective project teams.
 
 - Most recently helped build a new team and implement project processes at ICTI Care international Hong Kong
 
-- Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and pen test
+- Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and sec pen test
+
+- Built and worked within several teams to deliver business functions including sales, software product management, and customer services.
+
+- Worked with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human rights (Jamaica) review
+
+
 
 
 
