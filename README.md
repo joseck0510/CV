@@ -24,7 +24,6 @@ I have worked as as a project manager for the last 15 years, helping to deliver 
 - Successfully creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract - Sedex Exchange Ltd working with Open Credo Ltd.
 
 
-
 #### Great Team Player
 
 Able to work well with diverse groups of people.
@@ -37,7 +36,7 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 - Built and worked within several teams to deliver business functions including sales, software product management, and customer services.
 
-- Worked as an intern with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human Rights Report (Jamaica) 
+- Worked as a volunteer with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human Rights Report (Jamaica)
 
 
 ## Education
