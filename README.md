@@ -38,6 +38,16 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 - Worked as a volunteer with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human Rights Report (Jamaica)
 
+## Recommendations
+Jonas Partner
+CEO OpenCredo and founder Specto Labs
+
+"I have worked with Jose as a supplier on a number of critical projects for Sedex which covered the implementation of complex mission critical software. The delivery projects also covered the adoption of a more agile approach to software delivery something which was new to Sedex. I was impressed by how hard he worked to achieve sensible outcomes in potentially complex situations and the way in which he handled the process of interfacing between the internal PRINCE2 process and the more agile approach used by the delivery team to the satisfaction of all.""
+
+Julia Berry
+PMO and Assurance Manager at HSBC Global Banking and Markets
+
+"I worked closely with José, having been brought in as a PPM consultant, to deliver a systems solution for one of Sedex's key clients; this solution required data feeds from the strategic Sedex platform. José was a pleasure to work with; he was an ideal client, keen to learn, happy to take advice and supportive of the need to be firm with Sedex's client about the scope, timeline and pricing of delivery as well as of the need to make some tough delivery team decisions. His ability to think strategically - and to persuade other key stakeholders to support him - is evident in his promotion to a role where he has been responsible for developing new platforms for Sedex which reduce reliance on external parties, increase flexibility/timeliness of system changes and offer more cost-effective solutions. José acts with integrity and fairness to all: suppliers, clients and colleagues alike. He is well liked and respected and is a good leader"
 
 ## Education
 
