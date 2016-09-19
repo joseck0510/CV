@@ -46,11 +46,6 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 - 2012 - PRINCE2 Practitioner Certification
 
-- 1995 - 1996 - Law LLDip LPC - College of Law(Chester)
-
-- 1991 - 1994 - Law LLB(Hons) - Queen Mary College(University of London)
-
-
 #### Makers Academy (start_date to end_date)
 
 - Curiosity and hungry passion for code
@@ -62,9 +57,9 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- 1995 - 1996 - Law LLDip LPC - College of Law(Chester)
+
+- 1991 - 1994 - Law LLB(Hons)2ii - Queen Mary College(University of London)
 
 #### Any other qualifications
 
