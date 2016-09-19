@@ -63,11 +63,13 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 - Rowing
 - Gaming
 - Alt health
-- Sci Fi
+- SciFi
 
 ## Experience
 
-**ICTI Care International ltd** (2015 - present)    
+**ICTI Care International Ltd** (2015 - present)    
 *Project Consultant*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Sedex Exchange Ltd** (2009 to 2015)   
+*Director of Project Management*  
+**Richmond Green Property Group Ltd** (2004 - 2009)
+*IT Manager*
