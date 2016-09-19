@@ -37,13 +37,12 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 - Built and worked within several teams to deliver business functions including sales, software product management, and customer services.
 
-- Worked with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human rights (Jamaica) review
+- Worked as an intern with the Jamaican Council for Human Rights to draft constitutional appeals against the death  penalty and worked with the US Embassy to produce the annual State Department Human Rights Report (Jamaica) 
 
 
 ## Education
 
 - 2016  - Makers Academy - Full Stack Software Engineering bootcamp
-
 - 2012 - PRINCE2 Practitioner Certification
 
 #### Makers Academy (start_date to end_date)
@@ -58,14 +57,18 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 #### Your University / College (start_date to end_date)
 
 - 1995 - 1996 - Law LLDip LPC - College of Law(Chester)
-
 - 1991 - 1994 - Law LLB(Hons)2ii - Queen Mary College(University of London)
 
-#### Any other qualifications
+#### Interests
+- Gym
+- Rowing
+- Gaming
+- Alt health
+- Sci Fi
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**ICTI Care International ltd** (2015 - present)    
+*Project Consultant*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
