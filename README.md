@@ -62,7 +62,7 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 - Gym
 - Rowing
 - Gaming
-- Alt health
+- Complementary health
 - SciFi
 
 ## Experience
