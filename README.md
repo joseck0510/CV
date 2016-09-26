@@ -19,7 +19,7 @@ During the last 3 months with Makers Academy I have learnt the fundamentals of g
 
 - Ruby on Rails
 - Javascript
-- PostgreSQL with Datamapper and Active Record ORMs
+- PostgreSQL with DataMapper and Active Record ORMs
 - Rspec
 - Capybara
 - Jasmine
@@ -89,7 +89,7 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 ## :globe_with_meridians: Experience
 
 **ICTI Care International Ltd** (2015 - present)    
-*Project Consultant*  
+*Project Consultant - contract*  
 **Sedex Exchange Ltd** (2009 to 2015)   
 *Director of Project Management*  
 **Richmond Green Property Group Ltd** (2004 - 2009)
