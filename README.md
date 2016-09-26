@@ -1,13 +1,28 @@
 ## José Antonio Copovi-King
 
-I am a shiny new developer and love to be continually learning.  I have built a career over the last 15 or so years as a software-development project manager, helping companies grow by building effective teams. Most recently I have completed an inspiring full stack software development course at Makers Academy, whilst maintaining a freelance project consultancy contract with a client in Hong Kong. I'm now looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment.
+I am a brand new developer and love to be continually learning.  I have built a successful career over the last 15+ years as a software-development project manager, helping companies grow by building effective teams. Most recently I have completed an inspiring full stack software development course at Makers Academy, whilst maintaining a freelance project consultancy contract with a client in Hong Kong. I'm now looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment.
+
+##### Project Examples
+| Project | Size of team | Description | Technologies |
+|---------|--------|-------------|--------------|
+| Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
+| Stockr <br> [Github](https://github.com/joseck0510/stockr) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | application that allows a food wholeseller to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, Rspec, Capybara, HTML, PostgreSQL |
+
 
 ## :eyeglasses: Skills
 
 #### Software Development Skills/Projects
 
-    s
+During the last 3 months with Makers Academy I have learnt the fundamentals of good coding practice: Agile, TDD, XP values.  Specifically I have worked on projects which have involved the following technologies:
 
+- Ruby on Rails
+- Javascript
+- PostgreSQL with Datamapper and Active Record ORMs
+- Rspec
+- Capybara
+- Jasmine
+- HTML
+- CSS
 
 #### Results Oriented and Able to Work Under Pressure
 
