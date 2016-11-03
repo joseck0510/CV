@@ -8,7 +8,7 @@
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
 | Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
-| Stockr <br> [Github](https://github.com/joseck0510/stockr) | 5 | application that allows a food wholeseller to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, Rspec, Capybara, HTML, PostgreSQL |
+| Stockr <br> [Github](https://github.com/joseck0510/stockr) | 5 | application that allows a food wholes-seller to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, RSpec, Capybara, HTML, PostgreSQL |
 
 
 ## :eyeglasses: Skills
@@ -20,7 +20,7 @@ During the last 3 months with Makers Academy I have learnt the fundamentals of g
 - Ruby on Rails
 - Javascript
 - PostgreSQL with DataMapper and Active Record ORMs
-- Rspec
+- RSpec
 - Capybara
 - Jasmine
 - HTML
@@ -46,7 +46,7 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 - Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and security penetration test
 
-- Acted as technical project advisor on the Sedex Board for 4 years, reporting on development, techncial contract and security issues.
+- Acted as technical project advisor on the Sedex Board for 4 years, reporting on development, technical contract and security issues.
 
 
 ## :paperclip: Recommendations
@@ -74,10 +74,11 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### The College of Law - Chester (1995 - 1996)
+- Law LLDip (Legal Practice Certification)
 
-- 1995-1996 | Law LLDip LPC | College of Law(Chester)
-- 1991-1994 | Law LLB(Hons)2(ii) | Queen Mary College (University of London)
+#### Queen Mary College - University of London (1991 - 1994)
+- Law LLB(Hons)2(ii)
 
 #### Interests
 - Gym
