@@ -1,8 +1,8 @@
 ## José Antonio Copovi-King
 
-I am a brand new developer and love to be continually learning.  I have built a successful career for myself as a software development project manager, and have always been curious as to how things work under the hood.  So I decided to take the plunge and embark on a new career starting with the fantastic full stack software development course at [Makers Academy](http://www.makersacademy.com/) in London, which I am proud to have graduated from in September 2016.
+ I have built a successful career for myself as a software development project manager, and have always been fascinated by how things work under the hood.  Software development is all about solving problems and there is always an opportunity to be learning and growing, which ticks all the boxes for me! So I  decided to take the plunge and embark on a new career starting with the full stack software development course at [Makers Academy](http://www.makersacademy.com/) in London, which I am proud to have graduated from in September 2016.
 
- I'm now looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment.
+ I'm now looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment which is passionate about the quality of its code.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
