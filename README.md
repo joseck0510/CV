@@ -8,7 +8,8 @@
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
 | Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
-| Stockr <br> [Github](https://github.com/joseck0510/stockr) | 5 | application that allows a food wholes-seller to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, RSpec, Capybara, HTML, PostgreSQL |
+| Stockr <br> [Github](https://github.com/joseck0510/stockr) \
+[App] (https://samed-stockr.herokuapp.com/) | 5 | Application that allows a food wholesaler to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, RSpec, Capybara, HTML, PostgreSQL |
 
 
 ## :eyeglasses: Skills
@@ -62,17 +63,21 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 
 ## :mortar_board: Education
 
-- 2016  - Makers Academy - Full Stack Software Engineering bootcamp
-- 2012 - PRINCE2 Practitioner Certification
-
-#### Makers Academy (start_date to end_date)
-
+#### Makers Academy - Full Stack Software Engineering bootcamp (June/2016 - October/2016)
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
+
+#### PRINCE2 Practitioner Certification (May/2016)
+- Time management
+- Risk assessment
+- PRINCE2 project methodolgy
+- Cost & time estimation
+- Communication strategically
+- People & team management
 
 #### The College of Law - Chester (1995 - 1996)
 - Law LLDip (Legal Practice Certification)
@@ -82,7 +87,6 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 
 #### Interests
 - Gym
-- Rowing
 - Gaming
 - Complementary health
 - SciFi
