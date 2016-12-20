@@ -1,6 +1,8 @@
 ## José Antonio Copovi-King
 
- I have built a successful career for myself as a software development project manager, and have always been fascinated by how things work under the hood.  Software development is all about solving problems and there is always an opportunity to be learning and growing, which ticks all the boxes for me! So I  decided to take the plunge and embark on a new career starting with the full stack software development course at [Makers Academy](http://www.makersacademy.com/) in London, which I am proud to have graduated from in September 2016.
+ I am a full stack software developer, with experience working within TDD focussed agile environments.  Software development is all about solving problems and there is always an opportunity to be learning and growing, which ticks all the boxes for me! So I  decided to take the plunge and embark on a new career starting with the full stack software development course at [Makers Academy](http://www.makersacademy.com/) in London, which I am proud to have graduated from in September 2016.
+
+ I also have 15+ years experience building and managing software project teams within a PRINCE 2 framework.
 
  I'm now looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment which is passionate about the quality of its code.
 
