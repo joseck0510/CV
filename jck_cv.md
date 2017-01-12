@@ -1,24 +1,21 @@
 ## José Antonio Copovi-King
 
- I am a full stack software developer, with experience working within TDD focussed agile environments.  Software development is all about solving problems and there is always an opportunity to be learning and growing, which ticks all the boxes for me! So I  decided to take the plunge and embark on a new career starting with the full stack software development course at [Makers Academy](http://www.makersacademy.com/) in London, which I am proud to have graduated from in September 2016.
+ I am a full stack software developer, with experience working in TDD focussed agile environments within a commercial setting - startup and established businesses.
 
- I also have 15+ years experience building and managing software project teams within a PRINCE 2 framework.
-
- I'm now looking to begin my career in software development by working for an innovative and socially responsible organisation, working in a collaborative environment which is passionate about the quality of its code.
+ I have always enjoyed working in technology, and being constantly challenged. So when the opportunity arose to take time out in 2016 and complete a full stack development boot camp with [Makers Academy](http://www.makersacademy.com/) I grabbed it! I'm now looking forward to rolling my sleeves up and getting stuck into a career as a software developer, working within an XP focussed team.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
-| Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
-| Stockr <br> [Github](https://github.com/joseck0510/stockr) \
-[App] (https://samed-stockr.herokuapp.com/) | 5 | Application that allows a food wholesaler to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, RSpec, Capybara, HTML, PostgreSQL |
+| Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), RSpec, Capybara, HTML |
+| Stockr<br>[Github](https://github.com/joseck0510/stockr) \ [App](https://samed-stockr.herokuapp.com/)  |5| Application that allows a food wholesaler to update their current stock and easily send their customers an updated list via e-mail | Rails, CSS, RSpec, Capybara, HTML, PostgreSQL |
 
 
 ## :eyeglasses: Skills
 
 #### Software Development Skills/Projects
 
-During the last 3 months with Makers Academy I have learnt the fundamentals of good coding practice: Agile, TDD, pair programming and XP values.  Specifically I have worked on projects which have involved the following technologies:
+During the 4 months with Makers Academy I have learnt the fundamentals of good coding practice: Agile, TDD, pair programming and XP values.  Specifically I have worked on projects which have involved the following technologies:
 
 - Ruby on Rails
 - Javascript
@@ -29,17 +26,17 @@ During the last 3 months with Makers Academy I have learnt the fundamentals of g
 - HTML
 - CSS
 
-#### Results Oriented and Able to Work Under Pressure
+#### Strong Commercial Experience
 
-I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget and ensuring constant communication with senior managers and board representatives in blue chip multinational client companies.
+I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies.
 
 - Managing a complex software development contract with an overseas provider (Sedex Exchange Ltd)
 
-- Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract.   This gave me the opportunity to work closely with an Agile development team on a greenfield platform project.  Part of this work involved the explanation of the Agile process to a non-technical Board. (Sedex Exchange Ltd working with Open Credo Ltd.)
+- Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract.
 
 - Responsibility for the creation of new revenue models from inception, pitching the Board, delivery and rapid profit turn around (Supply Chain Compliance Support Services at Sedex Exchange Ltd) which turned a £250k  profit within the first year of operation.
 
-#### Practical Experience of Woking With an Agile Development team
+#### Practical Experience of Working With an Agile Development team
 
 - Working closely with the Open Credo team, gave me real world experience of Agile development processes (Kanban) and a well executed TDD approach.
 
@@ -97,7 +94,21 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 
 **ICTI Care International Ltd** (2015 - present)    
 *Project Consultant - contract*  
+
 **Sedex Exchange Ltd** (2009 to 2015)   
 *Director of Project Management*  
-**Richmond Green Property Group Ltd** (2004 - 2009)
+
+**Blendon Communications & Richmond Green Property Group Ltd** (2002 - 2009)
 *IT Manager*
+
+**Daily Mail Group & Trust** (2001-2002)
+*Advertising Account Manager*
+
+**Media Insight - WPP** (1999-2001)
+*Media Planner & Buyer*
+
+**Charterhouse Communications** (1997-1999)
+*Display Advertising Executive*
+
+**Wilmington Group plc** (1995-1997)
+*Telesales executive*
