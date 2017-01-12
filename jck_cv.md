@@ -28,25 +28,25 @@ During the 4 months with Makers Academy I have learnt the fundamentals of good c
 
 #### Strong Commercial Experience
 
-I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies.
+I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies. *[Icti-Care International HK ltd](#exp), [Sedex Ltd](#exp), [Richmond Green Group Ltd](#exp)*
 
-- [Managing a complex software development contract with an overseas provider.](#icti)
+- Managing a complex software development contract with an overseas provider. *[Icti-Care International HK ltd](#exp), [Sedex Ltd](#exp)*
 
-- Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract.
+- Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract. *[Sedex Ltd](#exp)*
 
-- Responsibility for the creation of new revenue models from inception, pitching the Board, delivery and rapid profit turn around (Supply Chain Compliance Support Services at Sedex Exchange Ltd) which turned a £250k  profit within the first year of operation.
+- Responsibility for the creation of new revenue models from inception, pitching the Board, delivery and rapid profit turn around (Supply Chain Compliance Support Services at Sedex Exchange Ltd) which turned a £250k  profit within the first year of operation. *[Sedex Ltd](#exp)*
 
 #### Practical Experience of Working With an Agile Development team
 
-- Working closely with the Open Credo team, gave me real world experience of Agile development processes (Kanban) and a well executed TDD approach.
+- Working closely with the Open Credo team, gave me real world experience of Agile development processes (Kanban) and a well executed TDD approach.  *[Sedex Ltd](#exp)*
 
 #### Able to work well with diverse groups of people
 
-I have worked in international multi-disciplinary teams for the last 20 years within the project management, finance and software development areas.  During this time I have also helped to build highly effective project teams.
+I have worked in international multi-disciplinary teams for the last 15 years within the project management, finance and software development areas.  During this time I have helped to build highly effective project teams. *[Icti-Care International HK ltd](#exp), [Sedex Ltd](#exp), [Richmond Green Group Ltd](#exp)*
 
-- Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and security penetration test
+- Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and security penetration test. *[Icti-Care International HK ltd](#exp)*
 
-- Acted as technical project advisor on the Sedex Board for 4 years, reporting on development, technical contract and security issues.
+- Acted as technical project advisor on the Sedex Board for 4 years, reporting on development, technical contract and security issues. *[Sedex Ltd](#exp)*
 
 
 ## :paperclip: Recommendations
@@ -88,9 +88,9 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 - Complementary health
 - SciFi
 
-## :globe_with_meridians: Experience
+## :globe_with_meridians: <a name="exp"></a>Experience
 
-**<a name="icti"></a> ICTI Care International Ltd** (2015 - present)    
+**ICTI Care International Ltd** (2015 - present)    
 *Project Consultant - contract*  
 
 **Sedex Exchange Ltd** (2009 to 2015)   
