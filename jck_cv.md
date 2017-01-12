@@ -30,7 +30,7 @@ During the 4 months with Makers Academy I have learnt the fundamentals of good c
 
 I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies.
 
-- Managing a complex software development contract with an overseas provider (Sedex Exchange Ltd)
+- [Managing a complex software development contract with an overseas provider.](#icti)
 
 - Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract.
 
@@ -50,8 +50,6 @@ I have worked in international multi-disciplinary teams for the last 20 years wi
 
 
 ## :paperclip: Recommendations
-
-
 
 *"I have worked with Jose as a supplier on a number of critical projects for Sedex which covered the implementation of complex mission critical software. The delivery projects also covered the adoption of a more agile approach to software delivery something which was new to Sedex. I was impressed by how hard he worked to achieve sensible outcomes in potentially complex situations and the way in which he handled the process of interfacing between the internal PRINCE2 process and the more agile approach used by the delivery team to the satisfaction of all."* <cite> --  Jonas Partner
 CEO OpenCredo and founder Specto Labs </cite>
@@ -92,7 +90,7 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 
 ## :globe_with_meridians: Experience
 
-**ICTI Care International Ltd** (2015 - present)    
+**<a name="icti"></a> ICTI Care International Ltd** (2015 - present)    
 *Project Consultant - contract*  
 
 **Sedex Exchange Ltd** (2009 to 2015)   
