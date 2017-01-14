@@ -1,8 +1,8 @@
 ## José Antonio Copovi-King
 
- I am a full stack software developer, with experience working in TDD focussed agile environments within a commercial setting - startup and established businesses.
+ I am a full stack software developer, with experience working in TDD focussed Agile environments within a commercial setting - startup and established businesses.
 
- I have always enjoyed working in technology, and being constantly challenged. So when the opportunity arose to take time out in 2016 and complete a full stack development boot camp with [Makers Academy](http://www.makersacademy.com/) I grabbed it! I'm now looking forward to rolling my sleeves up and getting stuck into a career as a software developer, working within an XP focussed team.
+ I love working in technology, and being constantly challenged. So when the opportunity arose to take time out in 2016 and complete a full stack development boot camp with [Makers Academy](http://www.makersacademy.com/) I grabbed it! I'm now looking forward to rolling my sleeves up and building my career as a software developer, working within an XP focussed team.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
@@ -28,9 +28,9 @@ During the 4 months with Makers Academy I have learnt the fundamentals of good c
 
 #### Strong Commercial Experience
 
-I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies. *[Icti-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp), [Richmond Green Group Ltd](#exp)*
+I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies. *[ICTI-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp), [Richmond Green Group Ltd](#exp)*
 
-- Managing a complex software development contract with an overseas provider. *[Icti-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp)*
+- Managing a complex software development contract with an overseas provider. *[ICTI-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp)*
 
 - Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract. *[Sedex Exchange Ltd](#exp)*
 
@@ -42,9 +42,9 @@ I have worked as as a project manager for the last 15 years, helping to deliver 
 
 #### Able to work well with diverse groups of people
 
-I have worked in international multi-disciplinary teams for the last 15 years within the project management, finance and software development areas.  During this time I have helped to build highly effective project teams. *[Icti-Care International Ltd](#exp), [Sedex Exchange Ltd](#exp), [Richmond Green Group Ltd](#exp)*
+I have worked in international multi-disciplinary teams for the last 15 years within the project management, finance and software development areas.  During this time I have helped to build highly effective project teams. *[ICTI-Care International Ltd](#exp), [Sedex Exchange Ltd](#exp), [Richmond Green Group Ltd](#exp)*
 
-- Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and security penetration test. *[Icti-Care International Ltd](#exp)*
+- Worked with a Hong Kong development agency and Secure Works UK to plan and implement a data security review and security penetration test. *[ICTI-Care International Ltd](#exp)*
 
 - Acted as technical project advisor on the Sedex Board for 4 years, reporting on development, technical contract and security issues. *[Sedex Exchange Ltd](#exp)*
 
@@ -66,15 +66,21 @@ PMO and Assurance Manager at HSBC Global Banking and Markets </cite>
 - OOP, TDD, MVC
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Mocha
+- RSpec, Jasmine, Mocha
 
 #### PRINCE2 Practitioner Certification (May/2016)
 - Time management
 - Risk assessment
-- PRINCE2 project methodolgy
+- PRINCE2 project methodology
 - Cost & time estimation
-- Communication strategically
+- Communicate strategically
 - People & team management
+
+#### CAPITA Finance for Non-Finance Managers Course (October & November/2011)
+- Basic principles of financial statements
+- Profit & Loss Account and Balance Sheet
+- Importance of the working capital management and budgeting
+- Understanding of the difference between profit and cash
 
 #### The College of Law - Chester (1995 - 1996)
 - Law LLDip (Legal Practice Certification)
