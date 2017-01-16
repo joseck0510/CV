@@ -28,7 +28,7 @@ During the 4 months with Makers Academy I have learnt the fundamentals of good c
 
 #### Strong Commercial Experience
 
-I have worked as as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies. *[ICTI-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp), [Richmond Green Group Ltd](#exp)*
+I have worked as a project manager for the last 15 years, helping to deliver additional value to various business products over that time. These projects required a methodical & collaborative  approach working with cross-functional teams to achieve common business goals on time and on budget, ensuring constant communication with senior managers and board representatives in blue chip multinational client companies. *[ICTI-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp), [Richmond Green Group Ltd](#exp)*
 
 - Managing a complex software development contract with an overseas provider. *[ICTI-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp)*
 
