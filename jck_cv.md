@@ -32,13 +32,13 @@ I have worked as a project manager for the last 15 years, helping to deliver add
 
 - Managing a complex software development contract with an overseas provider. *[ICTI-Care International HK Ltd](#exp), [Sedex Exchange Ltd](#exp)*
 
-- Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract. *[Sedex Exchange Ltd](#exp)*
+- Successful creation and delivery of a plan to migrate a complex business critical compliance management software system to a newly built system and contract. *[Sedex Exchange Ltd](#exp)* https://cloud.google.com/customers/sedex/
 
 - Responsibility for the creation of new revenue models from inception, pitching the Board, delivery and rapid profit turn around (Supply Chain Compliance Support Services at Sedex Exchange Ltd) which turned a £250k  profit within the first year of operation. *[Sedex Exchange Ltd](#exp)*
 
 ## Practical Experience of Working With an Agile Development team
 
-- Working closely with the Open Credo team, gave me real world experience of Agile development processes (Kanban) and a well executed TDD approach.  *[Sedex Exchange Ltd](#exp)*
+- Working closely with the Open Credo team, gave me real world experience of Agile development processes (Kanban) and a well executed TDD approach.  *[Sedex Exchange Ltd](#exp)* https://cloud.google.com/customers/sedex/
 
 ## Able to work well with diverse groups of people
 
